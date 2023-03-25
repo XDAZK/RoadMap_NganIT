@@ -24,7 +24,7 @@ DƯỚI ĐÂY LÀ LỘ TRÌNH HỌC CHO BÉ NGÂN
    - [Read a few books about algorithms and data structures](https://www.interviewbit.com/blog/data-structures-and-algorithms-books)
 
 2. C#
-   - [C#](https://www.pluralsight.com/paths/c-10)
+   - [C#](https://tuhocict.com/dot-net-framework-va-ngon-ngu-c-sharp/)
    - [.NET 7](https://devblogs.microsoft.com/dotnet/announcing-dotnet-7)
    - Learn [dotnet CLI](https://docs.microsoft.com/dotnet/core/tools)
 
